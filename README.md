@@ -1,16 +1,6 @@
 # alemeno_app
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://github.com/himanshugoyal77/Alemeno-assignment/assets/92782099/6f725060-15a1-4dc7-8dbc-b1119c614b07
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
